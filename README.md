@@ -1,4 +1,4 @@
-# **Fair Adaptive Scaling (FAS) – Experiment** ⚖️
+# **Fair Adaptive Scaling (FAS) – Experiment** 
 
 ## **About** 📌  
 This project was a small experiment to understand Fair Adaptive Scaling (FAS) in practice and see how it helps reduce bias in classification tasks.  
